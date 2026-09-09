@@ -6,22 +6,6 @@ Descrição: Esta tabela exibe informações relacionadas aos convênios de empr
 # Banco de Talentos
   [Veja Banco de Talentos-Instituto Federal no Looker Studio](https://lookerstudio.google.com/reporting/c4ba7233-ec65-49ed-b70e-c0268d60215b)<div>
 Descrição: Este Banco de Talentos oferece uma interface onde empresas podem visualizar e selecionar potenciais estagiários com base em suas informações acadêmicas e profissionais.
-    </div> 
-
-  # Agenda
-  [Veja a Agenda de eventos Proex 2025](https://agendaproex2025.netlify.app/)<div>
-Descrição: Agenda criada em HTML com Google App Script para a visualização de eventos Proex 2025.
-    </div> 
-# Almoxarifado Virtual(em processo)
-  [Veja Almoxarifado (atual versão 0.8.5)]()<div>
-Descrição: Tendo identificado a necessidade e a falta de um melhor manuseio dos itens, decidi implementar este pequeno site para solucionar os problemas de organização e estoque dos itens utilizados em eventos de extensão.
-
-   Fluxo: O item é cadastrado pelo servidor, com a possibilidade de editar o Nome e a Quantidade inicial do item. A retirada ocorre mensalmente, por meio de um formulário, sendo registrada e armazenada no banco de dados. Isso permite uma pesquisa mais eficiente sobre quem utilizou o item, para qual finalidade, além de registrar a data da retirada e a quantidade.
-</div>
-
-# Aba Oportunidades CGRI - Assessoria Internacional Ifsuldeminas
-[Veja a aba clicando no link](https://portal.ifsuldeminas.edu.br/index.php/pro-reitoria-extensao/relacoes-internacionais/4382-oportunidades-cgri-2025)<div>
-Descrição: Fui encarregado de criar um estilo para a aba de "Oportunidades CGRI" do setor da Assessoria Internacional do Ifsuldeminas, nela eu construo uma estrutura simples com Html e Css para melhor visualização das oportunidades.
-</div>
+</div> 
 
 
