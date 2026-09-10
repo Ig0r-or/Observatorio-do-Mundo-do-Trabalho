@@ -26,13 +26,13 @@ estruturados para análise institucional.
  
 ```
 ┌─────────────────┐     ┌──────────────────┐     ┌─────────────────────┐
-│  Google Forms    │ --> │  Google Sheets    │ --> │   Google Data Studio   │
-│  (Coleta)         │     │  (Armazenamento)   │     │   (BI/Visualização)  │
+│  Google Forms   │ --> │  Google Sheets   │ --> │  Google Data Studio │
+│  (Coleta)       │     │  (Armazenamento) │     │  (BI/Visualização)  │ 
 └─────────────────┘     └──────────────────┘     └─────────────────────┘
       │                         │                          │
  Currículos,              Banco de dados               Indicadores de
  cadastro de vagas,       principal (planilhas          egressos e
- preferências de          estruturadas)                  empregabilidade
+ preferências de          estruturadas)               empregabilidade
  empresas
 ```
  
