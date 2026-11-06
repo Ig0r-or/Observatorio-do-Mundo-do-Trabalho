@@ -2,7 +2,7 @@
  
 **Plataforma de conexão entre estudantes e empregadores, com arquitetura de dados institucional para o IFSULDEMINAS**
  
-![Status](https://img.shields.io/badge/status-em%20produção-brightgreen)
+![Status](https://img.shields.io/badge/status-finalizado-brightgreen)
 ![Stack](https://img.shields.io/badge/stack-Google%20Cloud%20Ecosystem-blue)
  
 ---
